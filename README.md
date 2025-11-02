@@ -328,10 +328,10 @@ assignment4/
 
 ## 👤 Author
 
-**Name:** Asset Iglikov  
-**E-mail:** aaset0645@gmail.com 
-**Course name:** Design and Analysis of Algorithms | Aidana Aidynkyzy
-**University name:** Astana IT University
+**Name:** Asset Iglikov  ||
+**E-mail:** aaset0645@gmail.com ||
+**Course name:** Design and Analysis of Algorithms | Aidana Aidynkyzy ||
+**University name:** Astana IT University ||
 
 ---
 
